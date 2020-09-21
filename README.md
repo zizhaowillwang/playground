@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Playground changed_Xin hahaha
-=======
-# Playground changed_Xin
->>>>>>> origin/master
+# Playground changed_Xin_Ruizhe_Will
 
 A place to play with `git`.
 
