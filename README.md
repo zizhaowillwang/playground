@@ -1,7 +1,5 @@
-# Playground changed_Xin
+# Playground changed_Xin_Ruizhe
 
 A place to play with `git`.
-
-This is for pair programming 3
 
 ### Fall 2020
